@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+:root{
+  --orange: orange;
+}
+.container{
+  display: flex;
+  max-width: 480px;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
